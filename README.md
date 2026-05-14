@@ -21,9 +21,6 @@
 
 ---
 
-## 📸 ![Uploading image.png…]()
-
-
 
 ### Main Menu
 ```
